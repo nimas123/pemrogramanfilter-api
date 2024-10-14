@@ -11,10 +11,10 @@ export default function Home() {
       </p>
       <div className="flex flex-col md:flex-row justify-center space-y-2 md:space-y-0 md:space-x-4">
         <Link href="/posts">
-          <a className="text-blue-500 hover:underline text-center">POSTING PAGE</a>
+          <p className="text-blue-500 hover:underline text-center">POSTING PAGE</p>
         </Link>
         <Link href="/albums">
-          <a className="text-blue-500 hover:underline text-center">ALBUM PAGE</a>
+          <p className="text-blue-500 hover:underline text-center">ALBUM PAGE</p>
         </Link>
       </div>
     </div>
