@@ -1,0 +1,20 @@
+{
+    "kerudung": [
+      {
+        "jenis": "Pashmina",
+        "bahan": "Katun",
+        "ukuran": "180x75 cm",
+        "warna": "Merah muda",
+        "harga": 75000,
+        "stok": 20
+      },
+      {
+        "jenis": "Kerudung Lipat",
+        "bahan": "Satin",
+        "ukuran": "115x115 cm",
+        "warna": "Hitam",
+        "harga": 50000,
+        "stok": 15
+      }
+    ]
+  }
